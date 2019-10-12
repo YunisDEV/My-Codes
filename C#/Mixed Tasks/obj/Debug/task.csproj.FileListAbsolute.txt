@@ -1,0 +1,26 @@
+D:\Programming\C#\Projects\task\bin\Debug\task.exe.config
+D:\Programming\C#\Projects\task\bin\Debug\task.exe
+D:\Programming\C#\Projects\task\bin\Debug\task.pdb
+D:\Programming\C#\Projects\task\obj\Debug\task.csprojAssemblyReference.cache
+D:\Programming\C#\Projects\task\obj\Debug\task.Kalkulyator.resources
+D:\Programming\C#\Projects\task\obj\Debug\task.Properties.Resources.resources
+D:\Programming\C#\Projects\task\obj\Debug\task.csproj.GenerateResource.cache
+D:\Programming\C#\Projects\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\task\obj\Debug\task.exe
+D:\Programming\C#\Projects\task\obj\Debug\task.pdb
+D:\Programming\C#\Projects\task\obj\Debug\task.PositiveNegative.resources
+D:\Programming\C#\Projects\task\obj\Debug\task.Ortalama.resources
+D:\Programming\C#\Projects\task\obj\Debug\task.oddeven.resources
+D:\Programming\Programming Projects\C#\Projects\task\bin\Debug\task.exe.config
+D:\Programming\Programming Projects\C#\Projects\task\bin\Debug\task.exe
+D:\Programming\Programming Projects\C#\Projects\task\bin\Debug\task.pdb
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.csprojAssemblyReference.cache
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.oddeven.resources
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.Ortalama.resources
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.PositiveNegative.resources
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.Calculator.resources
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.Properties.Resources.resources
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.csproj.GenerateResource.cache
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.exe
+D:\Programming\Programming Projects\C#\Projects\task\obj\Debug\task.pdb
